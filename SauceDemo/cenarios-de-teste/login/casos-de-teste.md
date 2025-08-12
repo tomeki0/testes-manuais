@@ -6,9 +6,11 @@
 
 **Tipo:** Positivo  
 **Pré-condição:** Estar na página de login  
+
 **Dados de Entrada:**  
 - Usuário: `standard_user`  
 - Senha: `secret_sauce`
+  
 **Passos:**
 1. Preencher usuário correto  
 2. Preencher senha correta  
@@ -24,10 +26,12 @@
 ## LGN-2: Usuário errado e senha correta
 
 **Tipo:** Negativo  
-**Pré-condição:** Estar na página de login  
+**Pré-condição:** Estar na página de login
+
 **Dados de Entrada:**  
 - Usuário: `user`  
-- Senha: `secret_sauce` 
+- Senha: `secret_sauce`
+  
 **Passos:**  
 1. Preencher usuário errado  
 2. Preencher senha correta  
@@ -46,6 +50,7 @@
 
 **Tipo:** Negativo  
 **Pré-condição:** Estar na página de login  
+
 **Dados de Entrada:**  
 - Usuário: `standard_user`  
 - Senha: `secret`
