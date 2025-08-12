@@ -18,7 +18,7 @@
 **Resultado Esperado:**  
 - Redirecionar para a página principal da aplicação: `/inventory.html`
    
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -36,7 +36,7 @@
 - Exibir a mensagem `'Epic sadface: Username and password do not match any user in this service'`  
 - Ícone de erro ao lado do campo de usuário e senha  
 - Permanecer na página de login  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -54,7 +54,7 @@
 - Exibir a mensagem `'Epic sadface: Username and password do not match any user in this service'`  
 - Ícone de erro ao lado do campo de usuário e senha  
 - Permanecer na página de login  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -68,7 +68,7 @@
 - Exibir a mensagem `'Epic sadface: Username is required'`  
 - Ícone de erro ao lado do campo de usuário e senha  
 - Permanecer na página de login  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -81,7 +81,7 @@
 **Resultado Esperado:**  
 - Redirecionar para a página de login  
 - Exibir a mensagem `'Epic sadface: You can only access '/inventory.html' when you are logged in.'`  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -100,7 +100,7 @@
 **Resultado Esperado:**  
 - Exibir a mensagem `'Epic sadface: Sorry, this user has been locked out.'`  
 - Permanecer na página de login  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
 
@@ -114,7 +114,7 @@
 **Resultado Esperado:**  
 - Encerrar a sessão do usuário  
 - Redirecionar para a página de login  
-**Status:** Passou  
+**Status:** Passou ✅ 
 
 ---
 
@@ -127,6 +127,6 @@
 **Resultado Esperado:**  
 - Sempre redirecionar para a página de login  
 - Exibir a mensagem `'Epic sadface: You can only access '/inventory.html' when you are logged in.'`  
-**Status:** Passou  
+**Status:** Passou ✅
 
 ---
