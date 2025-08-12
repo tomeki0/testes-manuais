@@ -107,7 +107,8 @@
 **Tipo:** Negativo  
 **Pré-condição:**  
 - Estar na página de login  
-- Ter um login bloqueado  
+- Ter um login bloqueado
+   
 **Dados de Entrada:**  
 - Usuário: `locked_out_user`  
 - Senha: `secret_sauce`
