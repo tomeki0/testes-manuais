@@ -1,4 +1,4 @@
-# Bugs – Sauce Demo
+# Relatório de Bugs – Sauce Demo
 
 ---
 
@@ -20,12 +20,11 @@ Não é possível alterar a quantidade de um item no carrinho.
 - Não habilita a opção de alteração da quantidade do produto.
 
 **Prioridade:** Alta  
-**Evidência:** Vídeo   
+**Evidência:** [Vídeo demonstrativo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41)  
+**Ambiente:** Produção  
 **Ambiente de Teste:**  
-- Sistema Operacional: Windows 10 64-bit  
-- Navegadores:  
-  - Google Chrome (versão: 139.0.7258.128, 64 bits)  
-  - Opera One (versão: 120.0.5543.161, Chromium 135.0.7049.115)  
+- **OS:** Windows (x86) 10 2004/20H2/21H1/21H2  
+- **Browser:** Chrome 139.0.7258.128  
 
 **Relacionado ao caso de teste:** CAR-5
 
@@ -49,12 +48,11 @@ Não é possível alterar a quantidade de um item no carrinho.
 - Avança para finalizar a compra.
 
 **Prioridade:** Alta  
-**Evidência:** Vídeo  
+**Evidência:** [Vídeo demonstrativo](https://exemplo.com/video)  
+**Ambiente:** Produção  
 **Ambiente de Teste:**  
-- Sistema Operacional: Windows 10 64-bit  
-- Navegadores:  
-  - Google Chrome (versão: 139.0.7258.128, 64 bits)  
-  - Opera One (versão: 120.0.5543.161, Chromium 135.0.7049.115)  
+- **OS:** Windows (x86) 10 2004/20H2/21H1/21H2  
+- **Browser:** Chrome 139.0.7258.128  
 
 **Relacionado ao caso de teste:** CKOT-2
 
