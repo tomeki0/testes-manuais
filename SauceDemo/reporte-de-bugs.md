@@ -48,7 +48,7 @@ Não é possível alterar a quantidade de um item no carrinho.
 - Avança para finalizar a compra.
 
 **Prioridade:** Alta  
-**Evidência:** [Vídeo demonstrativo](https://exemplo.com/video)  
+**Evidência:** [Vídeo demonstrativo](https://jam.dev/c/e53ef170-8641-49e6-a8a2-977fec930246)  
 **Ambiente:** Produção  
 **Ambiente de Teste:**  
 - **OS:** Windows (x86) 10 2004/20H2/21H1/21H2  
