@@ -29,12 +29,10 @@
 **Dados de Entrada:**  
 - Usuário: `user`  
 - Senha: `secret_sauce`
--  
 **Passos:**  
 1. Preencher usuário errado  
 2. Preencher senha correta  
 3. Clicar em login
-
 
 **Resultado Esperado:**  
 - Exibir a mensagem `'Epic sadface: Username and password do not match any user in this service'`  
