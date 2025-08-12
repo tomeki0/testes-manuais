@@ -10,7 +10,7 @@
 - Usuário: `standard_user`  
 - Senha: `secret_sauce`
   
-**Passos:**  
+Passos: 
 1. Preencher usuário correto  
 2. Preencher senha correta  
 3. Clicar em login
