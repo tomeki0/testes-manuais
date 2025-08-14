@@ -48,7 +48,7 @@ Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encon
 │ │ └── ...
 │ ├── plano-de-teste.md             # Plano de teste do projeto
 │ ├── reporte-de-bugs.md            # Bugs encontrados no projeto
-│ └── relatorio-de-resultados.md    # Resultado geral dos testes
+│ └── relatorio-dos-testes.md       # Resultado geral dos testes
 └── ...
 ```
 
