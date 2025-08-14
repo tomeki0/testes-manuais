@@ -6,8 +6,8 @@
 [![Data de execução](https://img.shields.io/badge/Data-12%20de%20agosto%202025-lightgrey)]()
 
 **Ambiente de Testes:**  
-- **SO:** Windows (x86) 10 2004/20H2/21H1/21H2  
-- **Navegador:** Chrome 139.0.7258.128  
+- **SO:** Windows (x86) 10 
+- **Navegador:** Chrome 139.0.7258.128 / Opera One(versão: 120.0.5543.161)
 - **Resolução de tela:** 1366x768
 
 ---
