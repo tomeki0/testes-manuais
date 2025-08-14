@@ -32,9 +32,6 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Prioridade:** Alta  
 **Evidência:** [Vídeo demonstrativo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41)  
 **Ambiente:** Produção  
-**Ambiente de Teste:**  
-- **OS:** Windows (x86) 10 2004/20H2/21H1/21H2  
-- **Browser:** Chrome 139.0.7258.128  
 
 **Relacionado ao caso de teste:** CAR-5
 
@@ -60,8 +57,5 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Prioridade:** Alta  
 **Evidência:** [Vídeo demonstrativo](https://jam.dev/c/e53ef170-8641-49e6-a8a2-977fec930246)  
 **Ambiente:** Produção  
-**Ambiente de Teste:**  
-- **OS:** Windows (x86) 10 2004/20H2/21H1/21H2  
-- **Browser:** Chrome 139.0.7258.128  
 
 **Relacionado ao caso de teste:** CKOT-2
