@@ -1,6 +1,6 @@
 # 🧪 Portfólio de Testes Manuais e Funcionais
 
-![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-Functional%20QA-blue) 
+![Testes Manuais]
 ![Gherkin](https://img.shields.io/badge/Gherkin-Behavioral%20Testing-orange) 
 ![Metodologias Ágeis](https://img.shields.io/badge/Agile-Kanban%20|%20Scrum-green)
 
