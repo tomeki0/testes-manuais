@@ -74,7 +74,3 @@ Este repositório é meu portfólio pessoal, mas sugestões e feedbacks são mui
 - **E-mail:** theguilhermelimas@gmail.com
 
 ---
-
-![Testes Manuais](https://img.shields.io/badge/Testes-Manuais-blue)
-![Cypress](https://img.shields.io/badge/Cypress-automation-green)
-
