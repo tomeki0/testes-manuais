@@ -52,9 +52,9 @@ Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encon
    
 2. Cada projeto contém:
    - **cenarios-de-teste/**: organização dos cenários por funcionalidade  
-   - 📄 plano-de-teste.md: plano de teste completo do projeto  
-   - 🐞 reporte-de-bugs.md: registro de bugs encontrados  
-   - 📊 relatorio-de-resultados.md: resumo e evidências dos testes executados
+   - 📄 **plano-de-teste.md:** plano de teste completo do projeto  
+   - 🐞 **reporte-de-bugs.md:** registro de bugs encontrados  
+   - 📊 **relatorio-de-resultados.md:** resumo e evidências dos testes executados
        
 3. Dentro de **cenarios-de-teste**, cada funcionalidade possui:
    - **casos-de-teste.md**: detalhamento dos casos de teste  
