@@ -4,7 +4,12 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-Cenários%20de%20Teste-orange)
 ![Metodologias Ágeis](https://img.shields.io/badge/Ágil-Kanban%20|%20Scrum-green)
 
-- Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo casos de teste, execução de testes, registro de bugs, cenários em Gherkin e relatórios detalhados.
+- Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo:
+- Casos de teste
+- Execução de testes
+- Registro de bugs
+- Cenários em Gherkin
+- relatórios detalhados.
 
 ---
 
