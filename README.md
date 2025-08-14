@@ -6,22 +6,20 @@
 
 Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo:
 
-- Casos de teste
-- Execução de testes
-- Registro de bugs
-- Cenários em Gherkin
-- relatórios detalhados.
+- 📝 **Casos de teste**  
+- 🧪 **Execução de testes**  
+- 🐞 **Registro de bugs**  
+- 📜 **Cenários em Gherkin**  
+- 📊 **Relatórios detalhados**
 
 ---
 
 ## 🎯 Objetivos do Repositório
 
-- Demonstrar habilidades em **testes manuais e funcionais**  
-- Criar e organizar **casos de teste claros e rastreáveis**  
-- Executar **testes de funcionalidades** de sistemas web e aplicativos  
-- Registrar e gerenciar bugs de forma estruturada  
-- Documentar processos de teste e gerar **relatórios de resultados**  
-- Praticar escrita de **cenários em Gherkin**
+- 🧪 Demonstrar habilidades em **testes manuais e funcionais**, incluindo execução de testes e registro de bugs  
+- 📝 Criar e organizar **casos de teste claros e rastreáveis** e **cenários em Gherkin**  
+- 📊 Documentar processos e gerar **relatórios de resultados**  
+- 🚀 Aprimorar práticas de **qualidade de software** seguindo metodologias ágeis (Scrum/Kanban)
 
 ---
 
