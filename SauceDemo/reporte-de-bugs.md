@@ -1,4 +1,4 @@
-# 🐞 Relatório de Bugs – Sauce Demo
+# 🐞 Reporte de Bugs – Sauce Demo
 
 [![Sistema testado](https://img.shields.io/badge/Sistema-SauceDemo-blue)](https://www.saucedemo.com)
 [![Tipo de teste](https://img.shields.io/badge/Tipo%20de%20teste-Manual-yellow)]
