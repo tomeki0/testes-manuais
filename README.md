@@ -16,10 +16,10 @@ Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encon
 
 ## 🎯 Objetivos do Repositório
 
-- 🧪 Demonstrar habilidades em **testes manuais e funcionais**, incluindo execução de testes e registro de bugs  
-- 📝 Criar e organizar **casos de teste claros e rastreáveis** e **cenários em Gherkin**  
-- 📊 Documentar processos e gerar **relatórios de resultados**  
-- 🚀 Aprimorar práticas de **qualidade de software** seguindo metodologias ágeis (Scrum/Kanban)
+- Demonstrar habilidades em **testes manuais e funcionais**, incluindo execução de testes e registro de bugs  
+- Criar e organizar **casos de teste claros e rastreáveis** e **cenários em Gherkin**  
+- Documentar processos e gerar **relatórios de resultados**  
+- Aprimorar práticas de **qualidade de software** seguindo metodologias ágeis (Scrum/Kanban)
 
 ---
 
