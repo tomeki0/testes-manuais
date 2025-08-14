@@ -49,7 +49,7 @@ E preencha os dados:
 - First Name: Rita
 - Last Name: Lee
 - Zip/Postal Code: 08050155
-Quando clicar em "Continue"
+Quando clicar no botão "Continue"
 E clicar em "Finish"
 Então o sistema deve exibir a mensagem: "Thank you for your order! Your order has been dispatched, and will arrive just as fast as the pony can get there!"
 E exibir ícone de confirmação
@@ -71,7 +71,7 @@ Objetivo: Validar que o sistema exibe erros ao tentar finalizar compra sem dados
 
 ```gherkin
 Dado que o usuário esteja na página de checkout
-Quando clicar em "Continue" sem preencher nenhum campo
+Quando clicar no botão "Continue" sem preencher nenhum campo
 Então o sistema deve exibir a mensagem: "Error: First Name is required"
 E exibir ícones de erro ao lado de todos os campos
 E permanecer na página de checkout
@@ -83,7 +83,7 @@ Objetivo: Validar que o sistema exibe erro ao preencher apenas o First Name.
 ```gherkin
 Dado que o usuário esteja na página de checkout
 E preencha o campo First Name: "André"
-Quando clicar em "Continue"
+Quando clicar no botão "Continue"
 Então o sistema deve exibir a mensagem: "Error: Last Name is required"
 E exibir ícones de erro ao lado de todos os campos
 E permanecer na página de checkout
@@ -97,7 +97,7 @@ Dado que o usuário esteja na página de checkout
 E preencha os campos:
 - First Name: "André"
 - Last Name: "Lee"
-Quando clicar em "Continue"
+Quando clicar no botão "Continue"
 Então o sistema deve exibir a mensagem: "Error: Postal Code is required"
 E exibir ícones de erro ao lado de todos os campos
 E permanecer na página de checkout
@@ -111,7 +111,7 @@ Dado que o usuário esteja na página de checkout
 E preencha os campos:
 - First Name: "Rita"
 - Zip/Postal Code: "08050155"
-Quando clicar em "Continue"
+Quando clicar no botão "Continue"
 Então o sistema deve exibir a mensagem: "Error: Last Name is required"
 E exibir ícones de erro ao lado de todos os campos
 E permanecer na página de checkout
@@ -125,7 +125,7 @@ Dado que o usuário esteja na página de checkout
 E preencha os campos:
 - Last Name: "Lee"
 - Zip/Postal Code: "08050155"
-Quando clicar em "Continue"
+Quando clicar no botão "Continue"
 Então o sistema deve exibir a mensagem: "Error: First Name is required"
 E exibir ícones de erro ao lado de todos os campos
 E permanecer na página de checkout
