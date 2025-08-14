@@ -14,7 +14,7 @@
 
 ---
 
-## BUG-1: Alterar quantidade de um produto no carrinho
+## BUG-1: 🛒 Alterar quantidade de um produto no carrinho
 
 **Descrição:**  
 Não é possível alterar a quantidade de um item no carrinho.
@@ -35,13 +35,17 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Evidência:** 🎥 [Vídeo demonstrativo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41)  
 **Prioridade:** ![Alta](https://img.shields.io/badge/Prioridade-Alta-red)  
 **Ambiente:** ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green)
+| Evidência                                                          | Prioridade                                                | Ambiente                                                                    |
+| ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Alta](https://img.shields.io/badge/Prioridade-Alta-red) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
+
 
 
 **Relacionado ao caso de teste:** CAR-5
 
 ---
 
-## BUG-2: Checkout com carrinho vazio
+## BUG-2: 🛍️ Checkout com carrinho vazio
 
 **Descrição:**  
 É possível prosseguir para o checkout mesmo com o carrinho vazio.
