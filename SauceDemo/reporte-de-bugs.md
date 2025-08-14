@@ -1,13 +1,13 @@
 # 🐞 Relatório de Bugs – Sauce Demo
 
-[![Sistema testado](https://img.shields.io/badge/Sistema-SauceDemo-blue)](https://demo-saas.bugbug.io/)
-[![Tipo de teste](https://img.shields.io/badge/Tipo%20de%20teste-Manual-yellow)]()
-[![QA responsável](https://img.shields.io/badge/QA-Guilherme%20Lima-orange)]()
-[![Data de execução](https://img.shields.io/badge/Data-12%20de%20agosto%202025-lightgrey)]()
+[![Sistema testado](https://img.shields.io/badge/Sistema-SauceDemo-blue)](https://www.saucedemo.com)
+[![Tipo de teste](https://img.shields.io/badge/Tipo%20de%20teste-Manual-yellow)]
+[![QA responsável](https://img.shields.io/badge/QA-Guilherme%20Lima-orange)](https://www.linkedin.com/in/guilhermelima-qa)
+[![Data de execução](https://img.shields.io/badge/Data-12%20de%20agosto%202025-lightgrey)]
 
 **Ambiente de Testes:**  
 - **SO:** Windows (x86) 10 
-- **Navegador:** Chrome 139.0.7258.128 / Opera One(versão: 120.0.5543.161)
+- **Navegador:** Chrome 139.0.7258.128 / Opera One (versão: 120.0.5543.161)
 - **Resolução de tela:** 1366x768
 
 ---
