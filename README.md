@@ -4,7 +4,7 @@
 ![Gherkin](https://img.shields.io/badge/Gherkin-Cenários%20de%20Teste-orange)
 ![Metodologias Ágeis](https://img.shields.io/badge/Ágil-Kanban%20|%20Scrum-green)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Lima-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelima-qa)
-[![E-mail](https://img.shields.io/badge/E-mail-theguilhermelimas@gmail.com-red?logo=gmail&logoColor=white)](mailto:theguilhermelimas@gmail.com)
+[![E-mail](https://img.shields.io/badge/E-mail-theguilhermelimas%40gmail.com-red?logo=gmail&logoColor=white)](mailto:theguilhermelimas@gmail.com)
 
 Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo:
 
