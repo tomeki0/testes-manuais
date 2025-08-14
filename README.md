@@ -79,6 +79,6 @@ Este repositório é meu portfólio pessoal, mas sugestões e feedbacks são mui
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Lima-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelima-qa)
-[![E-mail](https://img.shields.io/badge/E-mail-Enviar-red?logo=gmail&logoColor=white)](mailto:theguilhermelimas@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-theguilhermelimas@gmail.com-red?logo=gmail&logoColor=white)](mailto:theguilhermelimas@gmail.com)
 
 ---
