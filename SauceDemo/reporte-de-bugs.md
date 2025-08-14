@@ -7,7 +7,7 @@
 
 **Ambiente de Testes:**  
 - **SO:** Windows (x86) 10 2004/20H2/21H1/21H2  
-- **Navegador: Chrome 139.0.7258.128  
+- **Navegador:** Chrome 139.0.7258.128  
 - **Resolução de tela:** 1366x768
 
 ---
