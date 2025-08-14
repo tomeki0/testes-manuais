@@ -76,5 +76,3 @@ Este repositório é meu portfólio pessoal, mas sugestões e feedbacks são mui
 - **E-mail:** theguilhermelimas@gmail.com  
 
 ---
-
-> Este repositório demonstra minhas habilidades e práticas em **Qualidade de Software**, especialmente em **testes manuais funcionais**, organização de casos de teste, gestão de bugs e comunicação clara de resultados.
