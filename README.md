@@ -1,12 +1,10 @@
 # 🧪 Portfólio de Testes Manuais e Funcionais
 
-![Testes Manuais]
-![Gherkin](https://img.shields.io/badge/Gherkin-Behavioral%20Testing-orange) 
+![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-Functional%20QA-blue)
+![Gherkin](https://img.shields.io/badge/Gherkin-Behavioral%20Testing-orange)
 ![Metodologias Ágeis](https://img.shields.io/badge/Agile-Kanban%20|%20Scrum-green)
 
-- Bem-vindo ao meu portfólio de **Testes Manuais**, com foco em testes funcionais de aplicações e sites.
-
-Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo casos de teste, execução de testes, registro de bugs, cenários em **Gherkin** e relatórios detalhados.
+- Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encontrará meus estudos e práticas em **Qualidade de Software**, incluindo casos de teste, execução de testes, registro de bugs, cenários em Gherkin e relatórios detalhados.
 
 ---
 
