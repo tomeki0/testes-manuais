@@ -61,3 +61,12 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Ambiente:** ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green)
 
 **Relacionado ao caso de teste:** CKOT-2
+
+
+
+| Item          | Detalhes                                     |
+| ------------- | -------------------------------------------- |
+| **SO**        | Windows (x86) 10 / Motorola G75 5G           |
+| **Navegador** | Chrome 139.0.7258.128 / Opera One 120.0.5543 |
+| **Resolução** | 1366x768                                     |
+
