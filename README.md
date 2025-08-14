@@ -1,7 +1,7 @@
 # 🧪 Portfólio de Testes Manuais e Funcionais
 
-- Bem-vindo ao meu portfólio de **Testes Manuais**, com foco em testes funcionais de aplicações e sites.
-- Este repositório reúne meus estudos e práticas em **Qualidade de Software**, incluindo criação de casos de teste, execução de testes, registro de bugs, escrita de cenários em **Gherkin** e geração de relatórios de resultados.
+Bem-vindo ao meu portfólio de **Testes Manuais**, com foco em testes funcionais de aplicações e sites.
+Este repositório reúne meus estudos e práticas em **Qualidade de Software**, incluindo criação de casos de teste, execução de testes, registro de bugs, escrita de cenários em **Gherkin** e geração de relatórios de resultados.
 
 ---
 
