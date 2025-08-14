@@ -33,10 +33,10 @@ Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encon
 │ ├── cenarios-de-teste/           # Cenários organizados por funcionalidade
 │ │ ├── Funcionalidade-1/
 │ │ │ ├── casos-de-teste.md
-│ │ │ └── gherking.md
+│ │ │ └── gherkin.md
 │ │ ├── Funcionalidade-2/
 │ │ │ ├── casos-de-teste.md
-│ │ │ └── gherking.md
+│ │ │ └── gherkin.md
 │ │ └── ...
 │ ├── plano-de-teste.md             # Plano de teste do projeto
 │ ├── reporte-de-bugs.md            # Bugs encontrados no projeto
@@ -58,7 +58,7 @@ Bem-vindo ao meu portfólio de **Testes Manuais e Funcionais**! Aqui você encon
        
 3. Dentro de **cenarios-de-teste**, cada funcionalidade possui:
    - **casos-de-teste.md**: detalhamento dos casos de teste  
-   - **gherking.md**: cenários escritos em Gherkin  
+   - **gherkin.md**: cenários escritos em Gherkin  
 
 ---
 
