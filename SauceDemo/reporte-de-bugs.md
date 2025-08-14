@@ -31,10 +31,6 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Resultado obtido:**  
 - Não habilita a opção de alteração da quantidade do produto.
 
-
-**Evidência:** 🎥 [Vídeo demonstrativo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41)  
-**Prioridade:** ![Alta](https://img.shields.io/badge/Prioridade-Alta-red)  
-**Ambiente:** ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green)
 | Evidência                                                          | Prioridade                                                | Ambiente                                                                    |
 | ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Alta](https://img.shields.io/badge/Prioridade-Alta-red) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
@@ -62,9 +58,9 @@ Não é possível alterar a quantidade de um item no carrinho.
 **Resultado obtido:**  
 - Avança para finalizar a compra.
 
-**Evidência:** 🎥 [Vídeo demonstrativo](https://jam.dev/c/e53ef170-8641-49e6-a8a2-977fec930246)  
-**Prioridade:** ![Alta](https://img.shields.io/badge/Prioridade-Alta-red)  
-**Ambiente:** ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green)
+| Evidência                                                          | Prioridade                                                | Ambiente                                                                    |
+| ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Alta](https://img.shields.io/badge/Prioridade-Alta-red) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
 
 **Relacionado ao caso de teste:** CKOT-2
 
