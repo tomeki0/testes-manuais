@@ -8,7 +8,7 @@
 **Ambiente de Testes:**  
 | Item          | Detalhes                                     |
 | ------------- | -------------------------------------------- |
-| **SO**        | Windows (x86) 10 / Motorola G75 5G           |
+| **SO**        | Windows (x86) 10         |
 | **Navegador** | Chrome 139.0.7258.128 / Opera One 120.0.5543 |
 | **Resolução** | 1366x768                                     |
 
@@ -46,9 +46,8 @@ Não é possível alterar a quantidade de um item no carrinho.
 
 **Passos para reprodução:**  
 1. Logar no sistema  
-2. Adicionar um produto no carrinho  
-3. Acessar o carrinho  
-4. Clicar em 'Checkout'  
+2. Acessar o carrinho  
+3. Clicar no botão 'Checkout'  
 
 **Resultado esperado:**  
 - Exibir mensagem de erro e permanecer na página do carrinho.
