@@ -28,10 +28,11 @@ Este repositório reúne meus estudos e práticas em **Qualidade de Software**, 
 
 ## 📂 Estrutura do Repositório
 
+```
 /testes-manuais
 │
-├── Projeto-SiteOuApp/ # Cada site ou aplicação é um projeto
-│ ├── cenarios-de-teste/ # Cenários organizados por funcionalidade
+├── Projeto-SiteOuApp/             # Cada site ou aplicação é um projeto
+│ ├── cenarios-de-teste/           # Cenários organizados por funcionalidade
 │ │ ├── Funcionalidade-1/
 │ │ │ ├── casos-de-teste.md
 │ │ │ └── gherking.md
@@ -39,25 +40,24 @@ Este repositório reúne meus estudos e práticas em **Qualidade de Software**, 
 │ │ │ ├── casos-de-teste.md
 │ │ │ └── gherking.md
 │ │ └── ...
-│ ├── plano-de-teste.md # Plano de teste do projeto
-│ ├── reporte-de-bugs.md # Bugs encontrados no projeto
-│ └── relatorio-de-resultados.md # Resultado geral dos testes
+│ ├── plano-de-teste.md             # Plano de teste do projeto
+│ ├── reporte-de-bugs.md            # Bugs encontrados no projeto
+│ └── relatorio-de-resultados.md    # Resultado geral dos testes
 └── ...
-
-yaml
-Copiar
-Editar
+```
 
 ---
 
 ## 🔍 Como Navegar
 
-1. Abra a pasta **/testes-manuais** para ver os projetos (sites/aplicações).  
+1. Abra a pasta **/testes-manuais** para ver os projetos (sites/aplicações).
+   
 2. Cada projeto contém:
    - **cenarios-de-teste/**: organização dos cenários por funcionalidade  
    - **plano-de-teste.md**: plano de teste completo do projeto  
    - **reporte-de-bugs.md**: registro de bugs encontrados  
-   - **relatorio-de-resultados.md**: resumo e evidências dos testes executados  
+   - **relatorio-de-resultados.md**: resumo e evidências dos testes executados
+       
 3. Dentro de **cenarios-de-teste**, cada funcionalidade possui:
    - **casos-de-teste.md**: detalhamento dos casos de teste  
    - **gherking.md**: cenários escritos em Gherkin  
