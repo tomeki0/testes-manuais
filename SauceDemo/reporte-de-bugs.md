@@ -35,9 +35,7 @@ Não é possível alterar a quantidade de um item no carrinho.
 | ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Alta](https://img.shields.io/badge/Prioridade-Alta-red) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
 
-
-
-**Relacionado ao caso de teste:** CAR-5
+**Relacionado ao caso de teste:** 📝 [CAR-5](https://github.com/tomeki0/testes-manuais/blob/main/SauceDemo/cenarios-de-teste/carrinho/casos-de-teste.md)
 
 ---
 
@@ -62,5 +60,5 @@ Não é possível alterar a quantidade de um item no carrinho.
 | ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Alta](https://img.shields.io/badge/Prioridade-Alta-red) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
 
-**Relacionado ao caso de teste:** CKOT-2
+**Relacionado ao caso de teste:** 📝 [CKOT-2](https://github.com/tomeki0/testes-manuais/blob/main/SauceDemo/cenarios-de-teste/checkout/casos-de-teste.md)
 
