@@ -3,12 +3,12 @@
 [![Sistema testado](https://img.shields.io/badge/Sistema-SauceDemo-blue)](https://demo-saas.bugbug.io/)
 [![Tipo de teste](https://img.shields.io/badge/Tipo%20de%20teste-Manual-yellow)]()
 [![QA responsável](https://img.shields.io/badge/QA-Guilherme%20Lima-orange)]()
-[![Data de execução](https://img.shields.io/badge/Data-19%20de%20maio%202025-lightgrey)]()
+[![Data de execução](https://img.shields.io/badge/Data-12%20de%20maio%202025-lightgrey)]()
 
 **Ambiente de Testes:**  
 - **SO:** Windows (x86) 10 2004/20H2/21H1/21H2  
 - **Navegador: Chrome 139.0.7258.128  
-- **Resolução de tela:** 1366x780
+- **Resolução de tela:** 1366x768
 
 ---
 
