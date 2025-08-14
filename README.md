@@ -71,6 +71,10 @@ Este repositório é meu portfólio pessoal, mas sugestões e feedbacks são mui
 ## 📬 Contato
 
 - **LinkedIn:** [Guilherme Lima](https://www.linkedin.com/in/guilhermelima-qa)  
-- **E-mail:** theguilhermelimas@gmail.com  
+- **E-mail:** theguilhermelimas@gmail.com
 
 ---
+
+![Testes Manuais](https://img.shields.io/badge/Testes-Manuais-blue)
+![Cypress](https://img.shields.io/badge/Cypress-automation-green)
+
