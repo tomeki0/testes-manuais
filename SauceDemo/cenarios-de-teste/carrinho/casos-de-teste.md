@@ -1,5 +1,22 @@
 # Casos de Teste – Carrinho de Compras (Sauce Demo)
 
+| ID    | Título                                       | Status | Observações                         |
+| ----- | -------------------------------------------- | ------ | ----------------------------------- |
+| CAR-1 | Adicionar produto pela listagem de produtos  | ✅      | OK                                  |
+| CAR-2 | Adicionar produto pela página do produto     | ✅      | OK                                  |
+| CAR-3 | Remover produto pela listagem de produtos    | ✅      | OK                                  |
+| CAR-4 | Remover produto pela página de produto       | ✅      | OK                                  |
+| CAR-5 | Alterar quantidade de um produto no carrinho | ❌      | Bug — quantidade/total não atualiza |
+| CAR-6 | Sair do carrinho vazio                       | ✅      | OK                                  |
+| CAR-7 | Sair do carrinho com um produto              | ✅      | OK                                  |
+
+Resumo:
+
+- Total de testes: 7
+- Passaram: 6
+- Falharam: 1
+- Taxa de sucesso: 85,7%
+
 ---
 
 ## CAR-1: Adicionar produto ao carrinho pela listagem de produtos
