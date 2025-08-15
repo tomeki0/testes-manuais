@@ -6,6 +6,8 @@
 | ----------------------- | -------------- | -------------- | ---------------- | --------------- |
 | 29                      | 27             | 2              | 3                | 93,1%           |
 
+---
+
 ## 📋 Resumo por Funcionalidade
 
 | Módulo               | Casos Testados | Casos Passaram | Bugs encontrados |
@@ -15,16 +17,15 @@
 | Carrinho de Compras  | 7              | 6              | 1                |
 | Checkout             | 10             | 9              | 1                |
 
-
 ---
 
 ## 🐞 Resumo dos Bugs Reportados
 
-| ID      | Título                                                   | Severidade | Status |
-| ------- | -------------------------------------------------------- | ---------- | ------ |
-| BUG-001 | Não é possível alterar a quantidade do carrinho          | Alta       | Aberto |
-| BUG-002 | Permite prosseguir com checkout mesmo com carrinho vazio | Alta       | Aberto |
-| BUG-003 | Bug visual no botão de filtro, seta direita não funciona | Média      | Aberto |
+| ID      | Título                                                   | Severidade |
+| ------- | -------------------------------------------------------- | ---------- |
+| BUG-001 | Não é possível alterar a quantidade do carrinho          | Alta       |
+| BUG-002 | Permite prosseguir com checkout mesmo com carrinho vazio | Alta       |
+| BUG-003 | Bug visual no botão de filtro, seta direita não funciona | Média      |
 
 ---
 
