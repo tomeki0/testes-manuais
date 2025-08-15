@@ -19,10 +19,12 @@
 
 ### 📌 Resumo Geral
 
-- Total de testes: 8  
-- Passaram: 8  
-- Falharam: 0  
-- Taxa de sucesso: 100%
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 8        |
+| ✅ **Passaram**         | **8**    |
+| ❌ **Falharam**         | **0**    |
+| 📈 **Taxa de Sucesso** | **100%** |
 
 ---
 
@@ -39,10 +41,12 @@
 
 ### 📌 Resumo Geral
 
-- Total de testes: 4  
-- Passaram: 4  
-- Falharam: 0  
-- Taxa de sucesso: 100%
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 4        |
+| ✅ **Passaram**         | **4**    |
+| ❌ **Falharam**         | **0**    |
+| 📈 **Taxa de Sucesso** | **100%** |
 
 ---
 
@@ -62,10 +66,12 @@
 
 ### 📌 Resumo Geral
 
-- Total de testes: 7  
-- Passaram: 6  
-- Falharam: 1  
-- Taxa de sucesso: 85,7%
+| 📊 Métrica             | 📈 Valor  |
+| ---------------------- | --------- |
+| **Total de Testes**    | 7         |
+| ✅ **Passaram**         | **6**     |
+| ❌ **Falharam**         | **1**     |
+| 📈 **Taxa de Sucesso** | **85,7%** |
 
 ---
 
@@ -88,10 +94,12 @@
 
 ### 📌 Resumo Geral
 
-- Total de testes: 10  
-- Passaram: 9  
-- Falharam: 1  
-- Taxa de sucesso: 90%
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 10       |
+| ✅ **Passaram**         | **9**    |
+| ❌ **Falharam**         | **1**    |
+| 📈 **Taxa de Sucesso** | **90%**  |
 
 ---
 
