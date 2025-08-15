@@ -6,7 +6,8 @@
 | ----------------------- | -------------- | -------------- | ---------------- | --------------- |
 | 29                      | 27             | 2              | 3                | 93,1%           |
 
-📋 Resumo por Funcionalidade
+## 📋 Resumo por Funcionalidade
+
 | Módulo               | Casos Testados | Casos Passaram | Bugs encontrados |
 | -------------------- | -------------- | -------------- | ---------------- |
 | Login                | 8              | 8              | 0                |
