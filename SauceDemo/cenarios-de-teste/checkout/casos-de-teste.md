@@ -1,5 +1,26 @@
 # Casos de Teste – Checkout (Sauce Demo)
 
+📊 Resumo dos Testes
+| ID      | Título                                                 | Status | Observações                       |
+| ------- | ------------------------------------------------------ | ------ | --------------------------------- |
+| CKOT-1  | Prosseguir para o checkout do carrinho com um produto  | ✅      | OK                                |
+| CKOT-2  | Tentar prosseguir para o checkout com carrinho vazio   | ❌      | Mensagem não exibida corretamente |
+| CKOT-3  | Cancelar checkout do carrinho                          | ✅      | OK                                |
+| CKOT-4  | Finalizar compra com dados de entrega                  | ✅      | OK                                |
+| CKOT-5  | Botão "Back Home" após finalizar compra                | ✅      | OK                                |
+| CKOT-6  | Tentar finalizar compra sem preencher dados de entrega | ✅      | OK                                |
+| CKOT-7  | Tentar finalizar compra somente com First Name         | ✅      | OK                                |
+| CKOT-8  | Tentar finalizar compra com First e Last Name          | ✅      | OK                                |
+| CKOT-9  | Tentar finalizar compra com First Name e Postal Code   | ✅      | OK                                |
+| CKOT-10 | Tentar finalizar compra com Last Name e Postal Code    | ✅      | OK                                |
+
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 10       |
+| ✅ **Passaram**         | **9**    |
+| ❌ **Falharam**         | **1**    |
+| 📈 **Taxa de Sucesso** | **90%**  |
+
 ---
 
 ## CKOT-1: Prosseguir para o checkout do carrinho com um produto
