@@ -1,5 +1,20 @@
 # Casos de Teste – Listagem de Produtos (Sauce Demo)
 
+📊 Resumo dos Testes
+| ID    | Título                                          | Status | Observações |
+| ----- | ----------------------------------------------- | ------ | ----------- |
+| LDP-1 | Listar produtos em ordem alfabética crescente   | ✅      | OK          |
+| LDP-2 | Listar produtos em ordem alfabética decrescente | ✅      | OK          |
+| LDP-3 | Listar produtos por preço em ordem crescente    | ✅      | OK          |
+| LDP-4 | Listar produtos por preço em ordem decrescente  | ✅      | OK          |
+
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 4        |
+| ✅ **Passaram**         | **4**    |
+| ❌ **Falharam**         | **0**    |
+| 📈 **Taxa de Sucesso** | **100%** |
+
 ---
 
 ## LDP-1: Listar produtos em ordem alfabética crescente
