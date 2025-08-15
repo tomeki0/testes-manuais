@@ -63,7 +63,7 @@ Não é possível alterar a quantidade de um item no carrinho.
 
 ## BUG-2: 🔴 Bug visual do botão de filtro
 
-**Descrição:**  A área em volta da seta para baixo dentro do botão no lado direito não funciona, ao tentar clicar na seta, nada acontece. O resto do botão funciona. 
+**Descrição:**  A área em volta da seta para baixo no lado direito dentro do botão não funciona, ao tentar clicar, nada acontece. O resto do botão funciona. 
 
 **Passos para reprodução:**  
 1. Logar no sistema
