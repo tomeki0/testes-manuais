@@ -63,11 +63,11 @@ Não é possível alterar a quantidade de um item no carrinho.
 
 ## BUG-2: 🔴 Bug visual do botão de filtro
 
-**Descrição:**  A área toda do botão de filtro funciona, menos a seta para baixo dentro do botão no lado direito, ao tentar clicar na seta, nada acontece 
+**Descrição:**  A área em volta da seta para baixo dentro do botão no lado direito não funciona, ao tentar clicar na seta, nada acontece. O resto do botão funciona. 
 
 **Passos para reprodução:**  
 1. Logar no sistema
-2. Clicar na em cima da seta para baixo na direita do botão de filtro" 
+2. Clicar em cima/na área em volta da seta para baixo na direita do botão de filtro.
 
 **Resultado esperado:**  
 - Exibir as opções de ordem para listagem de produtos.
@@ -77,4 +77,4 @@ Não é possível alterar a quantidade de um item no carrinho.
 
 | Evidência                                                          | Prioridade                                                | Ambiente                                                                    |
 | ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Média](https://img.shields.io/badge/Prioridade-Média-yellow) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
+| 🎥 [Vídeo](https://jam.dev/c/4563d24e-5465-41c2-b71b-3cccdf409051) | ![Média](https://img.shields.io/badge/Prioridade-Média-yellow) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
