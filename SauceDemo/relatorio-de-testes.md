@@ -10,12 +10,13 @@
 
 ## 📋 Resumo por Funcionalidade
 
-| Módulo               | Casos Testados | Casos Passaram | Bugs encontrados |
-| -------------------- | -------------- | -------------- | ---------------- |
-| Login                | 8              | 8              | 0                |
-| Listagem de Produtos | 4              | 4              | 0                |
-| Carrinho de Compras  | 7              | 6              | 1                |
-| Checkout             | 10             | 9              | 1                |
+| Módulo               | Casos Testados | Casos Passaram | Casos Falharam | Bugs | Taxa de Sucesso |
+| -------------------- | -------------- | -------------- | -------------- | ---- | --------------- |
+| Login                | 8              | 8              | 0              | 0    | 100%            |
+| Listagem de Produtos | 4              | 4              | 0              | 0    | 100%            |
+| Carrinho de Compras  | 7              | 6              | 1              | 1    | 85,7%           |
+| Checkout             | 10             | 9              | 1              | 1    | 90%             |
+
 
 ---
 
@@ -44,15 +45,6 @@
 | LGN-7  | Realizar logout                             | ✅     | OK          |
 | LGN-8  | Tentar voltar para a aba anterior após logout | ✅  | OK          |
 
-### 📌 Resumo Geral
-
-| 📊 Métrica             | 📈 Valor |
-| ---------------------- | -------- |
-| **Total de Testes**    | 8        |
-| ✅ **Passaram**         | **8**    |
-| ❌ **Falharam**         | **0**    |
-| 📈 **Taxa de Sucesso** | **100%** |
-
 ---
 
 ## 2️⃣ Listagem de Produtos
@@ -65,15 +57,6 @@
 | LDP-2  | Listar produtos em ordem alfabética decrescente | ✅   | OK          |
 | LDP-3  | Listar produtos por preço em ordem crescente  | ✅     | OK          |
 | LDP-4  | Listar produtos por preço em ordem decrescente | ✅    | OK          |
-
-### 📌 Resumo Geral
-
-| 📊 Métrica             | 📈 Valor |
-| ---------------------- | -------- |
-| **Total de Testes**    | 4        |
-| ✅ **Passaram**         | **4**    |
-| ❌ **Falharam**         | **0**    |
-| 📈 **Taxa de Sucesso** | **100%** |
 
 ---
 
@@ -90,15 +73,6 @@
 | CAR-5  | Alterar quantidade de um produto                    | ❌     | Bug         |
 | CAR-6  | Sair do carrinho vazio                               | ✅     | OK          |
 | CAR-7  | Sair do carrinho com um produto                     | ✅     | OK          |
-
-### 📌 Resumo Geral
-
-| 📊 Métrica             | 📈 Valor  |
-| ---------------------- | --------- |
-| **Total de Testes**    | 7         |
-| ✅ **Passaram**         | **6**     |
-| ❌ **Falharam**         | **1**     |
-| 📈 **Taxa de Sucesso** | **85,7%** |
 
 ---
 
@@ -118,14 +92,5 @@
 | CKOT-8  | Tentar finalizar com First e Last Name                         | ✅     | OK          |
 | CKOT-9  | Tentar finalizar com First Name e Postal Code                  | ✅     | OK          |
 | CKOT-10 | Tentar finalizar com Last Name e Postal Code                   | ✅     | OK          |
-
-### 📌 Resumo Geral
-
-| 📊 Métrica             | 📈 Valor |
-| ---------------------- | -------- |
-| **Total de Testes**    | 10       |
-| ✅ **Passaram**         | **9**    |
-| ❌ **Falharam**         | **1**    |
-| 📈 **Taxa de Sucesso** | **90%**  |
 
 ---
