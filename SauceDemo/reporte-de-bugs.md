@@ -61,3 +61,20 @@ Não é possível alterar a quantidade de um item no carrinho.
 
 **Relacionado ao caso de teste:** 📝 [CKOT-2](https://github.com/tomeki0/testes-manuais/blob/main/SauceDemo/cenarios-de-teste/checkout/casos-de-teste.md)
 
+## BUG-2: 🔴 Bug visual do botão de filtro
+
+**Descrição:**  A área toda do botão de filtro funciona, menos a seta para baixo dentro do botão no lado direito, ao tentar clicar na seta, nada acontece 
+
+**Passos para reprodução:**  
+1. Logar no sistema
+2. Clicar na em cima da seta para baixo na direita do botão de filtro" 
+
+**Resultado esperado:**  
+- Exibir as opções de ordem para listagem de produtos.
+
+**Resultado obtido:**  
+- Nada contece.
+
+| Evidência                                                          | Prioridade                                                | Ambiente                                                                    |
+| ------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🎥 [Vídeo](https://jam.dev/c/8c3f7b78-5ebd-4d4b-a6d9-a33e33ab9a41) | ![Média](https://img.shields.io/badge/Prioridade-Média-yellow) | ![Produção](https://img.shields.io/badge/Ambiente-Produ%C3%A7%C3%A3o-green) |
