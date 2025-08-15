@@ -1,5 +1,24 @@
 # Casos de Teste – Login (Sauce Demo)
 
+📊 Resumo dos Testes
+| ID    | Título                                             | Status | Observações |
+| ----- | -------------------------------------------------- | ------ | ----------- |
+| LGN-1 | Usuário e senha corretos (Happy Path)              | ✅      | OK          |
+| LGN-2 | Usuário errado e senha correta                     | ✅      | OK          |
+| LGN-3 | Usuário correto e senha errada                     | ✅      | OK          |
+| LGN-4 | Tentar logar com campos vazios                     | ✅      | OK          |
+| LGN-5 | Tentar acessar página inicial sem estar logado     | ✅      | OK          |
+| LGN-6 | Tentar logar com usuário bloqueado                 | ✅      | OK          |
+| LGN-7 | Realizar logout                                    | ✅      | OK          |
+| LGN-8 | Tentar voltar para a aba anterior depois do logout | ✅      | OK          |
+
+| 📊 Métrica             | 📈 Valor |
+| ---------------------- | -------- |
+| **Total de Testes**    | 8        |
+| ✅ **Passaram**         | **8**    |
+| ❌ **Falharam**         | **0**    |
+| 📈 **Taxa de Sucesso** | **100%** |
+
 ---
 
 ## LGN-1: Usuário e senha corretos (Happy Path) 
