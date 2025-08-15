@@ -1,5 +1,30 @@
 # 📋 Relatório de Testes – Sauce Demo
 
+## 📊 Resumo da Execução
+
+| Total de Casos de Teste | Casos Passaram | Casos Falharam | Bugs Registrados | Taxa de Sucesso |
+| ----------------------- | -------------- | -------------- | ---------------- | --------------- |
+| 29                      | 27             | 2              | 3                | 93,1%           |
+
+📋 Resumo por Funcionalidade
+| Módulo               | Casos Testados | Casos Passaram | Bugs encontrados |
+| -------------------- | -------------- | -------------- | ---------------- |
+| Login                | 8              | 8              | 0                |
+| Listagem de Produtos | 4              | 4              | 0                |
+| Carrinho de Compras  | 7              | 6              | 1                |
+| Checkout             | 10             | 9              | 1                |
+
+
+---
+
+## 🐞 Resumo dos Bugs Reportados
+
+| ID      | Título                                                   | Severidade | Status |
+| ------- | -------------------------------------------------------- | ---------- | ------ |
+| BUG-001 | Não é possível alterar a quantidade do carrinho          | Alta       | Aberto |
+| BUG-002 | Permite prosseguir com checkout mesmo com carrinho vazio | Alta       | Aberto |
+| BUG-003 | Bug visual no botão de filtro, seta direita não funciona | Média      | Aberto |
+
 ---
 
 ## 1️⃣ Login
@@ -102,20 +127,3 @@
 | 📈 **Taxa de Sucesso** | **90%**  |
 
 ---
-
-## 5️⃣ Bugs Encontrados
-
-| ID | Caso de Teste | Título do Bug                    | Descrição                                     | Passos p/ Reproduzir                                         | Resultado Esperado                                  | Resultado Obtido                                   | Severidade | Evidências | Ambiente  |
-|----|---------------|---------------------------------|-----------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|------------|------------|-----------|
-| 1  | CAR-5         | Alterar quantidade do carrinho   | Não é possível alterar a quantidade          | 1. Logar no sistema<br>2. Adicionar produto<br>3. Acessar carrinho<br>4. Tentar alterar quantidade | Poder alterar quantidade e submeter              | Não habilita alteração                             | Alta       | Vídeo      | Produção  |
-| 2  | CKOT-2        | Checkout com carrinho vazio      | Permite prosseguir com carrinho vazio        | 1. Logar no sistema<br>2. Acessar carrinho<br>3. Clicar Checkout | Exibir mensagem de erro e permanecer no carrinho | Avança para finalizar compra                        | Alta       | Vídeo      | Produção  |
-| 3  | LDP-?         | Bug visual do botão de filtro    | Seta direita do botão não funciona           | 1. Logar no sistema<br>2. Clicar na seta do filtro          | Exibir opções de ordenação                        | Nada acontece                                      | Média      | Vídeo      | Produção  |
-
----
-
-## 6️⃣ Resumo Geral Consolidado
-
-- **Total de Testes:** 29  
-- **Passaram:** 27  
-- **Falharam:** 2  
-- **Taxa de Sucesso Geral:** 93,1%
