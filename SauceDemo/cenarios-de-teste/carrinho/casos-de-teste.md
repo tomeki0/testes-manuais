@@ -12,10 +12,13 @@
 
 Resumo:
 
-- Total de testes: 7
-- Passaram: 6
-- Falharam: 1
-- Taxa de sucesso: 85,7%
+| 📊 Métrica             | 📈 Valor  |
+| ---------------------- | --------- |
+| **Total de Testes**    | 7         |
+| ✅ **Passaram**         | **6**     |
+| ❌ **Falharam**         | **1**     |
+| 📈 **Taxa de Sucesso** | **85,7%** |
+
 
 ---
 
