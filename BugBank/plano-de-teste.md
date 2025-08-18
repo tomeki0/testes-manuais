@@ -33,10 +33,10 @@ Validar manualmente as funcionalidades principais do BugBank, garantindo que:
 - Realização de transferência bancária  
 - Pagamentos de contas  
 - Extrato da conta bancária  
-- Saque  
+- Saque
+- Testes em dispositivos móveis  
 
 ### Excluído:
-- Testes em dispositivos móveis  
 - Testes de performance e carga  
 - Testes de segurança  
 - Automação de testes  
@@ -45,9 +45,6 @@ Validar manualmente as funcionalidades principais do BugBank, garantindo que:
 
 ## 4. 🛠️ Ferramentas Utilizadas
 
-- Navegadores:  
-  - Google Chrome (versão: 139.0)  
-  - Opera (versão: 120.0)  
 - Google Sheets (registro de execução e bugs)  
 - Lightshot (captura de tela)  
 - Dev Jam (gravação de tela)  
@@ -57,6 +54,7 @@ Validar manualmente as funcionalidades principais do BugBank, garantindo que:
 ## 5. 🔍 Técnicas de Teste
 
 Os testes foram realizados de forma manual, utilizando as seguintes técnicas:  
+
 - **Caminho Feliz (Happy Path):** validar fluxos principais do sistema;  
 - **Testes Negativos:** validar tratamento de entradas inválidas e mensagens de erro;  
 - **Testes Exploratório:** identificar falhas inesperadas e comportamentos não documentados;  
@@ -76,4 +74,4 @@ Qualquer desvio será registrado como falha, com evidência.
 - Sistema Operacional: Windows 10 64-bit  
 - Navegadores:  
   - Google Chrome (versão: 139.0)  
-  - Opera (versão: 120.0)  
+  - Opera One (versão: 120.0)  
