@@ -11,6 +11,15 @@
 | CDT-6  | Cadastro sem preencher confirmação de senha       | ✅ | Validação de campo obrigatório      |
 | CDT-7  | Cadastro com senha e confirmação de senha diferentes | ✅ | Validação de igualdade das senhas  |
 
+Resumo:
+
+| 📊 Métrica             | 📈 Valor  |
+| ---------------------- | --------- |
+| **Total de Testes**    | 7         |
+| ✅ **Passaram**         | **7**     |
+| ❌ **Falharam**         | **0**     |
+| 📈 **Taxa de Sucesso** | **100%**  |
+
 ---
 
 ## CDT-1: Cadastro com todos os dados válidos e com saldo
